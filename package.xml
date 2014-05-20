@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>stuck_at_shutdown</name>
+  <version>0.0.0</version>
+  <description>The stuck_at_shutdown package</description>
+
+  <maintainer email="jonas.sticha@bmw-carit.de">Jonas Sticha</maintainer>
+  <license>BSD</license>
+  <author email="jonas.sticha@bmw-carit.de">Jonas Sticha</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+
+  <export>
+  </export>
+</package>
